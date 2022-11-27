@@ -1,5 +1,5 @@
-Full Responsive Portfolio Website
-© 2022 by itbazz. Design and develop by Amritto Sarker
+Full Responsive Portfolio Website <br>
+© 2022 by itbazz. Design and develop by Amritto Sarker<br>
 inspired by Bedimcode 
 
 Using HTML, CSS, and JavaScript, a responsive portfolio website. It has both a dark and a light mode. 
