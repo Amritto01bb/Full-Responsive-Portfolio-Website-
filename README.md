@@ -12,7 +12,7 @@ For run this code:
 4. Go to live server or double click index.html.
 5. Learn something new.
 
-For Contact:
+For Contact:<br>
 Email: amrittosarker1998@gmail.com
 
 ![portfolio](/preview.png)
